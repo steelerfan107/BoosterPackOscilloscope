@@ -45,4 +45,5 @@ Contains
 #User Manual 
 	- Contains how to setup project once the board is assembled and fabricated 
 
+If you have any questions just email me at: eric.taylor.9090@gmail.com
 		
