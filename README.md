@@ -6,7 +6,6 @@ An open hardware design sponsored by Texas Instruments to create a Oscilloscope 
 YouTube Videos of Current Version
 
 https://www.youtube.com/watch?v=cYiwDeTmkGY
-https://www.youtube.com/watch?v=1rPS23RzdNU
 https://www.youtube.com/watch?v=qeyE9i_el2E
 https://www.youtube.com/watch?v=waJ3gXQC8M0
 https://www.youtube.com/watch?v=UX_YCJf1Lo4
